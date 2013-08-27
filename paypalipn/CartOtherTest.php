@@ -30,7 +30,8 @@ class CartTest extends PHPUnit_Framework_TestCase {
 		
 		
 		
-		$this->assertTrue(true);		
+		$this->assertTrue(true);	
+		// CAD-4 third test change
 	}
 	
 }
