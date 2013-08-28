@@ -13,7 +13,7 @@ class CartTest extends PHPUnit_Framework_TestCase {
 	public function setup() { }
 	public function tearDown() { echo "\n\n"; }
 
-	public function testSendToPaypalSerialize() {
+	public function testSendToPaypalSerializeNICTEST() {
 
 		$items = array();
 		$item->name = 'Apple';
@@ -31,7 +31,7 @@ class CartTest extends PHPUnit_Framework_TestCase {
 		
 		
 		$this->assertTrue(true);	
-		// CAD-4 third test change
+		// CAD-4 third test change - another test
 	}
 	
 }
