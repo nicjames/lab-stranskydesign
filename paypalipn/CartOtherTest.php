@@ -31,7 +31,7 @@ class CartTest extends PHPUnit_Framework_TestCase {
 		
 		
 		$this->assertTrue(false);		
-		// made change to CAD-8
+		// made change to CAD-8 update1
 	}
 	
 }
