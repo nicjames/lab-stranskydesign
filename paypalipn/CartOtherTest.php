@@ -35,6 +35,10 @@ class CartTest extends PHPUnit_Framework_TestCase {
 	public function testGrowl() {
 		$this->assertTrue(true);		
 	}
+	public function testDestroyAllHumans() {
+		$this->assertTrue(false);		
+	}
+	
 }
 
 ?>
