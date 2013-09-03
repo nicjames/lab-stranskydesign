@@ -9,6 +9,7 @@
  */
 class Cart {
 	
+	private $shit;
 	private $noItemsState;
 	private $hasItemsState;
 	private $waitingForPaypalResponseState;
